@@ -3,6 +3,7 @@
 This repository contains the Terraform configuration that provisions the core AWS infrastructure for the NewBank Digital Banking Platform. It covers networking, compute, databases, caching, and messaging for a microservices-based banking application designed to serve 50,000 to 500,000 active users.
 
 ---
+<img width="5516" height="1906" alt="newbank-architecture-diagram drawio" src="https://github.com/user-attachments/assets/998233ae-c085-4c57-914e-13e70a9a83b0" />
 
 ## Architecture Overview
 
